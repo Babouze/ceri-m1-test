@@ -1,0 +1,10 @@
+deployment:
+  production:
+    branch: master
+  staging:
+    branch: master
+
+language: java
+
+jdk:
+  - oraclejdk8
